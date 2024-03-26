@@ -4,6 +4,13 @@
 @import '../../components/footer/footer.css';
 @import '../../components/main/main.css';
 @import '../../03-lection1/01-button/button.css';
+@import '../../components/sidebar/sidebar.css';
+@import '../../componenets/preview/preview.css';
+@import '../../components/component/component.css';
+@import '../../components/container/container.css';
+@import '../../components/page/page.css';
+@import '../../05-lection3/01-tooltip/tooltip.css';
+
 
 :root {
     --white: #ffffff;
